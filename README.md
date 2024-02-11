@@ -1,6 +1,6 @@
 # Prueba-Técnica-USM
 
-En el presente repositorio se adjunta un jupyter notebook con las respuestas a la preuba técnica "Data Science AMA-DTD-USM". 
+En el presente repositorio se adjunta un jupyter notebook con las respuestas a la prueba técnica "Data Science AMA-DTD-USM". 
 
 Cada pregunta fue respondida realizando un análisis de datos, selección de variables y entrenando modelos que buscan resolver el problema planteado.
 
