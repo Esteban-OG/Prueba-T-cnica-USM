@@ -1,1 +1,1 @@
-# Prueba-T-cnica-USM
+# Prueba-Técnica-USM
